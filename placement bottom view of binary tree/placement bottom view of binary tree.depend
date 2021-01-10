@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586516112 source:c:\users\admin\documents\codeblocksfiles\placement bottom view of binary tree\main.cpp
+	<iostream>
+	<queue>
+	<map>
+

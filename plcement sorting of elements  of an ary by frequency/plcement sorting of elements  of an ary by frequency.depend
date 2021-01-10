@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1587215023 source:c:\users\admin\documents\codeblocksfiles\plcement sorting of elements  of an ary by frequency\main.cpp
+	<iostream>
+	<map>
+	<vector>
+	<algorithm>
+

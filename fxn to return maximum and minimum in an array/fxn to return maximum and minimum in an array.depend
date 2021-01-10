@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1567231777 source:c:\users\admin\documents\codeblocksfiles\fxn to return maximum and minimum in an array\main.c
+	<stdio.h>
+	<stdlib.h>
+

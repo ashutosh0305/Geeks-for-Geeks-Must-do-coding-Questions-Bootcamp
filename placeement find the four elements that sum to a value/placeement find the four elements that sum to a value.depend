@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587289085 source:c:\users\admin\documents\codeblocksfiles\placeement find the four elements that sum to a value\main.cpp
+	<iostream>
+	<map>
+

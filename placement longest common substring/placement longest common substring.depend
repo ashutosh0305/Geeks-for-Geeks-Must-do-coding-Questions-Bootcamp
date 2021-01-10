@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589008315 source:c:\users\admin\documents\codeblocksfiles\placement longest common substring\main.cpp
+	<iostream>
+	<string.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1570712384 source:c:\users\admin\documents\codeblocksfiles\program for printing a matrix in spiral form\main.c
+	<stdio.h>
+	<stdlib.h>
+

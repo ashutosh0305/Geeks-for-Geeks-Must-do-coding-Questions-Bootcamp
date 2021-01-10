@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588833028 source:c:\users\admin\documents\codeblocksfiles\placement strongly connected components\main.cpp
+	<iostream>
+	<list>
+	<stack>
+

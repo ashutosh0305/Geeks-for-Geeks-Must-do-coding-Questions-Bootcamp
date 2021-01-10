@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1565605247 source:c:\users\admin\documents\codeblocksfiles\multiplicationofmatrices\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

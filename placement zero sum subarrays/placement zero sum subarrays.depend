@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1587641374 source:c:\users\admin\documents\codeblocksfiles\placement zero sum subarrays\main.cpp
+	<iostream>
+	<vector>
+	<unordered_map>
+

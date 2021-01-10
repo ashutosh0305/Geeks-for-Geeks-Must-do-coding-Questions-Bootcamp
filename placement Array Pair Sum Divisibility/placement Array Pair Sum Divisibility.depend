@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1587462531 source:c:\users\admin\documents\codeblocksfiles\placement array pair sum divisibility\main.cpp
+	<iostream>
+	<set>
+	<unordered_map>
+

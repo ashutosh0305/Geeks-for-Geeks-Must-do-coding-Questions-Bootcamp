@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1566930521 source:c:\users\admin\documents\codeblocksfiles\two elements whose sum is closest to zero\main.cpp
+	<iostream>
+	<math.h>
+

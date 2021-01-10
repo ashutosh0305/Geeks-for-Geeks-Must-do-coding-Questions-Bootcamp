@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587626042 source:c:\users\admin\documents\codeblocksfiles\placement minimum indexed character\main.cpp
+	<iostream>
+	<unordered_map>
+

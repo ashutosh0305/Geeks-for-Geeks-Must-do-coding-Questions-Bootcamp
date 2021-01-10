@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588504185 source:c:\users\admin\documents\codeblocksfiles\placement breadth first search or bfs for a graph\main.cpp
+	<iostream>
+	<queue>
+	<list>
+

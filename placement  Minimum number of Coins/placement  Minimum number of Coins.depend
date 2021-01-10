@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589010510 source:c:\users\admin\documents\codeblocksfiles\placement  minimum number of coins\main.cpp
+	<iostream>
+	<algorithm>
+

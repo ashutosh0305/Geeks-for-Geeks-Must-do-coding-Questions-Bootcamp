@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1570532379 source:c:\users\admin\documents\codeblocksfiles\program for finding the minimum distance between the two numbers in cpp\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
