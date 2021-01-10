@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1571148365 source:c:\users\admin\documents\codeblocksfiles\count smaller elements on right side\main.c
+	<stdio.h>
+	<stdlib.h>
+
